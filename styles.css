@@ -7,10 +7,15 @@
 }
 
 
-nav{
+.navbar{
    
     margin-bottom: 20px;
+    
 }
+
+/* .container-fluid{
+    background-color: dodgerblue;
+} */
 
 .carousel-item img{
 
@@ -59,3 +64,11 @@ nav{
     background-color: white;
 }
 
+.footer {
+    height: 50px;
+    background-color: dodgerblue;
+}
+
+.navbar-brand {
+    color: white;
+}
