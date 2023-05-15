@@ -1,0 +1,61 @@
+/* reset styles */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+nav{
+   
+    margin-bottom: 20px;
+}
+
+.carousel-item img{
+
+    object-fit: contain;
+    object-position: 50% 50%;
+      
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+
+
+   
+   background-color: dodgerblue;
+   color: black;
+      
+} */
+
+.slide{
+
+    margin-bottom: 20px;
+ 
+}
+
+.container-marketing{
+
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    
+}
+
+.col-lg-4 {
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.btn {
+    background-color: dodgerblue;
+    color: black;
+}
+
+.cards{
+    margin-top: 15px;
+    background-color: white;
+}
+
