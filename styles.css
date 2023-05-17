@@ -13,6 +13,11 @@
     
 }
 
+.bosta{
+
+    color: white;
+}
+
 /* .container-fluid{
     background-color: dodgerblue;
 } */
@@ -69,6 +74,10 @@
     background-color: dodgerblue;
 }
 
-.navbar-brand {
+/* .navbar-brand {
     color: white;
-}
+} */
+
+.custom-bg {
+    background-color: red;
+  }
