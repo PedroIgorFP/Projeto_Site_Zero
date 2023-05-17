@@ -6,49 +6,17 @@
     box-sizing: border-box;
 }
 
-
-.navbar{
-   
-    margin-bottom: 20px;
-    
-}
-
-.bosta{
-
-    color: white;
-}
-
-/* .container-fluid{
-    background-color: dodgerblue;
-} */
-
 .carousel-item img{
 
-    object-fit: contain;
-    object-position: 50% 50%;
+    object-fit: fill;
+    /* object-position: 50% 50%; */
       
-}
-
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-
-
-   
-   background-color: dodgerblue;
-   color: black;
-      
-} */
-
-.slide{
-
-    margin-bottom: 20px;
- 
 }
 
 .container-marketing{
 
     text-align: center;
-    background-color: rgb(230, 230, 230);
+    background-color:white
     
 }
 
@@ -71,7 +39,6 @@
 
 .footer {
     height: 50px;
-    background-color: dodgerblue;
 }
 
 /* .navbar-brand {
@@ -81,3 +48,18 @@
 .custom-bg {
     background-color: red;
   }
+
+.container-1{
+    position: relative;
+    background-color: black;
+    height: 50px;
+}
+
+.designed{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+    color: white;
+}
