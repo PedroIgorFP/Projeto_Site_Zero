@@ -17,6 +17,7 @@
 
     text-align: center;
     background-color:white
+    padding: 20px
     
 }
 
@@ -33,13 +34,13 @@
 }
 
 .cards{
-    margin-top: 15px;
+    padding: 20px;
     background-color: white;
 }
 
-.footer {
+/* .footer {
     height: 50px;
-}
+} */
 
 /* .navbar-brand {
     color: white;
@@ -53,6 +54,7 @@
     position: relative;
     background-color: black;
     height: 50px;
+    padding: 0px;
 }
 
 .designed{
@@ -62,4 +64,38 @@
     margin-bottom: 25px;
     text-align: center;
     color: white;
+}
+
+.px-3{
+    text-align: center;
+    padding: 100px;
+}
+
+.btn_chk{
+    text-align: center;
+    padding: 20px;
+}
+
+.formulario_chk{
+    text-align: left;
+    align-items: center;
+    padding: 50px;
+}
+
+.bmw_png{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.botao {
+    background-color: dodgerblue;
+    color: white
+}
+
+.botao_chk{
+
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
 }
