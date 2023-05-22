@@ -17,7 +17,7 @@
 
     text-align: center;
     background-color:white;
-    padding: 20px
+    padding: 100px
     
 }
 
@@ -93,9 +93,16 @@
     color: white
 }
 
-.botao_chk{
+.chk_btn{
 
     background-color: dodgerblue;
     color: white;
     text-align: center;
+}
+
+.superior{
+    padding: 100px;
+    background-image: url("https://a-static.besthdwallpaper.com/bmw-i8-wallpaper-5120x1440-2712_78.jpg");
+    background-size: cover;
+    color: white;
 }
